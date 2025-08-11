@@ -1,14 +1,12 @@
 # HTML Portfolio Page
-A simple personal portfolio webpage built with HTML and basic CSS.
+A simple personal portfolio webpage built with plain HTML.
 
 ## Features
-- Responsive basic layout
-- Section for skills, projects, and contact info
-- Minimal inline styling
+- Basic structure with header and short intro
+- Easy to view by opening `index.html` in a browser
 
 ## How to View
 Open the `index.html` file in your browser.
 
 ## Tech Stack
-- HTML
-- CSS
+- HTML5
